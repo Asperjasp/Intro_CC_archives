@@ -1,0 +1,7 @@
+# Se instala con el comando  pip install -r requirements.txt  Todo lo que este aca
+customtkinter
+pillow
+openpyxl
+matplotlib
+numpy
+pandas
